@@ -33,4 +33,4 @@ MPI equidistant montage 64 electrodes.
 
 Some notes about participants:
 -   subject number 2, I accidentally swapped the two electrodes set for the music part so we have to    rename the electrodes in order to make them consistent with the other recordings.
--   subject number 6, we will probably reject this participant, she couldn't sit still so data are very noisy.
+-   subject number 6, we will probably exclude this participant, since she couldn't sit still so data are very noisy.
